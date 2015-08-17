@@ -1,3 +1,6 @@
 Estudo GIT
 
 Editado por Branch: Erivelton MAster
+
+
+conflito de merge.
