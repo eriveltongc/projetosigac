@@ -3,3 +3,5 @@ Estudo GIT
 Editado por Branch: Erivelton MAster
 
 Editado para realizar o exercício de conflito de merge.
+
+teste
