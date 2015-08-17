@@ -2,5 +2,4 @@ Estudo GIT
 
 Editado por Branch: Erivelton MAster
 
-
-conflito de merge.
+Editado para realizar o exercício de conflito de merge.
