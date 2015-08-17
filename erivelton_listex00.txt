@@ -2,6 +2,6 @@
 
 Editado por Branch: Erivelton MAster
 
-Editado para realizar o exercício de conflito de merge.
+Editado para realizar o exercÃ­cio de conflito de merge.
 
-conflito
+teste
